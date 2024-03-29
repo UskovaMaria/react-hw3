@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding-top: 100px;
+  font-family: sans-serif;
+}
+
+li {
+  list-style: none;
+}
+
+label {
+  display: block;
+}
+
+input {
+  padding: 10px;
+  margin: 5px 0;
+  width: 100%;
+}
+
+button {
+  border: 1px solid silver;
+  background: none;
+  font-weight: bold;
+  padding: 10px;
+  margin: 5px 0;
+}
+
+.container {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.employer-list-app {}
+
+.employer-list-block {}
+
+.employer-list-count {
+  margin-bottom: 20px;
+}
+.employer-list-count span {
+  font-weight: bold;
+}

@@ -1,0 +1,32 @@
+.employer-item {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 10px;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid silver;
+}
+.employer-item__number {
+  font-size: 0.8rem;
+}
+
+.employer-item__info-block {
+  display: flex;
+  gap: 5px;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+.employer-item__info {
+}
+.employer-item__info_name {}
+.employer-item__info_surname {}
+
+.employer-item__action-block {
+  display: flex;
+  gap: 10px;
+  margin-left: auto;
+}
+.employer-item__btn {}
+.employer-item__btn_edit {}
+.employer-item__btn_del {}

@@ -1,0 +1,7 @@
+.employer-add-form {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+.employer-add-form__input {}
+.employer-add-form__btn {}
